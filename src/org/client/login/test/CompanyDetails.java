@@ -15,7 +15,7 @@ public class CompanyDetails {
 	System.out.println("chennai");
 	System.out.println(" hyd");
 	System.out.println("banglore");
-
+	System.out.println("vellore");
 	}
 	public static void main(String[] args) {
 		CompanyDetails obj1 = new CompanyDetails();
