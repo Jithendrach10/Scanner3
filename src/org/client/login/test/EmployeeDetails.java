@@ -3,6 +3,8 @@ package org.client.login.test;
 public class EmployeeDetails {
 	public void employeeName() {
 		System.out.println("Jithendra");
+		System.out.println("suraj");
+
 
 	}
 	
