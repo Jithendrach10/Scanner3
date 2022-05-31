@@ -12,8 +12,9 @@ public class CompanyDetails {
 
 }
 	private void companyAddress() {
-	System.out.println("chennai, hyd, banglore");
-
+	System.out.println("chennai");
+	System.out.println(" hyd");
+	System.out.println("banglore");
 
 	}
 	public static void main(String[] args) {
